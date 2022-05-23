@@ -1,0 +1,6 @@
+{
+    "defaultCommandTimeout": 8000,
+    "baseUrl":"https://www.google.com/?hl=pt-BR",
+    "chromeWebSecurity": false,
+    "trashAssetsBeforeRuns" : false
+}
